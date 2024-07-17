@@ -10,12 +10,9 @@ python3 benchmark_ollama_model.py -m Tinyllama
 ```
 
 
-<LeftMouse>### Desktop
-![Desktop Benchmark Output](./desktop-benchmark-output.png)
-
-### Laptop
+### Laptop(example)
 ![(SIMPLE)Laptop Benchmark Output](./laptop-benchmark-output.png)
-### Desktop
+### Desktop(example)
 ![(SIMPLE)Desktop Benchmark Output](./desktop-benchmark-output.png)
 
 
